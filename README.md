@@ -12,3 +12,20 @@ git remote add origin https://github.com/yourusername/yourrepository.git
 
 # Push to GitHub
 git push -u origin mainDevelopment-POE-Part-3
+# Project Title
+
+## Description
+Brief description of your project.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+
+## Project Structure
